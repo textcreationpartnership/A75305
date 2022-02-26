@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amsterdam and her other Hollander sisters put out to sea, by Van Trump, Van Dunck, &amp; Van Dumpe. Or, A true description of those so called Hoghens Mogens, set out to the life, with the manners of their quagmire bog, and other speciall varieties touching their unmannerly manners, and base ingratitude to our English nation, from their shels of beggery to their now present pride. Penn'd to give our nation timely notice of their subtile frauds and delusions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75305</idno>
+            <idno type="STC">Wing A3029</idno>
+            <idno type="STC">Thomason E670_5</idno>
+            <idno type="STC">ESTC R16141</idno>
+            <idno type="EEBO-CITATION">99859972</idno>
+            <idno type="PROQUEST">99859972</idno>
+            <idno type="VID">166218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166218)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E670[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Amsterdam and her other Hollander sisters put out to sea, by Van Trump, Van Dunck, &amp; Van Dumpe. Or, A true description of those so called Hoghens Mogens, set out to the life, with the manners of their quagmire bog, and other speciall varieties touching their unmannerly manners, and base ingratitude to our English nation, from their shels of beggery to their now present pride. Penn'd to give our nation timely notice of their subtile frauds and delusions.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Harper, in Smithfield, near the Hospitall Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An invective against the Dutch.</note>
+                  <note>Annotation on Thomason copy: "July 12".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Political satire, English --  17th century.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166218:1" rendition="simple:additions"/>
+            <p>AMSTERDAM, AND HER Other Hollander Siſters put out to Sea, BY <hi>Van Trump, Van Dunck,</hi> &amp; <hi>Van Dumpe.</hi> OR, A true deſcription of thoſe ſo called <hi>Hoghens Mogens,</hi> ſet out to the life; with the manners of their Quag<g ref="char:EOLhyphen"/>mire Bog, and other ſpeciall varieties touching their unmannerly manners, and baſe Ingratitude to our Engliſh Nation, from their ſhels of beggery to their now preſent pride.</p>
+            <p>Penn'd to give our Nation timely notice of their ſubtile frauds and deluſions.</p>
+            <q>
+               <l>Though <hi>Van Trumpe</hi> fight,</l>
+               <l>And <hi>Grotius</hi> write</l>
+               <l>That the Trade of fiſhing is free:</l>
+               <l>Yet if <hi>Selden</hi> or <hi>Blague</hi>
+               </l>
+               <l>Should ſaile to the Hague,</l>
+               <l>The <hi>Hoghens</hi> muſt beg on their knee.</l>
+            </q>
+            <q>Ah! Gens neſcia veri.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Harper,</hi> in Smithfield, near the Hoſ<g ref="char:EOLhyphen"/>pitall Gate. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166218:2"/>
+            <pb n="3" facs="tcp:166218:2"/>
+            <head>The Hollander Anatomized.</head>
+            <p>
+               <seg rend="decorInit">O</seg>H for an expert Chyrurgion to diſſect this Dutch Bloat-Herring! Or a skilfull Cheeſemonger to open this Great Butter-box! For neither <hi>Hondius,</hi> nor <hi>Fiſcher,</hi> nor any other Map-cutter is able ſufficiently to do it; they are ſuch Camelions, and Water Rats, that it's hard to ſet them forth in their Natures, or Colours; for a man can ſcarce tell where to have them ſure either on Land or Water; but where ſoever you ſee them, you muſt truſt to your ſelfe; but to give our Country-men timely notice of them, that they may know for what Horſe-Leaches, Spunges, and Cor<g ref="char:EOLhyphen"/>morants our Nation hath ſo many years paſt fought to defend and uphold, we will deſcribe theſe Dutch Hares, Caterpillers, and Sharkes, theſe Vipers, Vultures, and Bores into thirteen parts; of which theſe ſo blown Bladders, the Dutch are made up off. We begin with their Head firſt, and that is,</p>
+            <div type="part">
+               <head>2. <hi>SCHISME.</hi>
+               </head>
+               <p>OR in plain Engliſh a Gally-mophrey of all Religions; except only what's true and pure: Their main Neſt is Amſterdam, which hath as many Sects as Chambers, for they let out Lodgings to all people, and if they pay, they regard not how they pray; ſo they can prey upon them: That this is ſo, take a view of ſome, as Calviniſts, Hugenots, Lutherans, Browniſts, Anabaptiſts, Armini<g ref="char:EOLhyphen"/>ans, Socinians, Pelagians, Papiſts, Jewes, Swinglians, Remonſtran<g ref="char:EOLhyphen"/>ten, Contra-Remonſtranten, with divers others not fitting to be
+<pb n="4" facs="tcp:166218:3"/>named, much leſſe to be allowed; that they account the beſt Religi<g ref="char:EOLhyphen"/>on which brings moſt gains to them for toleration, were it the Turks <hi>Alchoran,</hi> that's their beſt God that brings the moſt Gold; if the <hi>Cantore</hi> be full, let their Churches be empty, they have a thing cal'd a <hi>predioante maer ſunder giſt, heel veit up ſtautd,</hi> they have one cal'd a Preacher, but without mony he is no Teacher. The next is,</p>
+            </div>
+            <div type="part">
+               <head>3. <hi>Their REBELLION.</hi>
+               </head>
+               <p>THere are three to whom they ſhould ſhew ſubjection, the Emperour, the King of Spain, and the French; there are ma<g ref="char:EOLhyphen"/>ny Towns that do ſhow over their Gates their true Owners, as for the Emperor, the Eagle, U<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>recht, Newmighem, Teele, Arneheam, Campen, Deventer and Swool, Emmerick and Weſel, ſo that if the Emperour, and the other two Kings had their own feathers, the Dutch would ſcarce have any for themſelves: Queen <hi>Elizabeth</hi> ſpoke true and home to them, that becauſe they ſayd they were Re<g ref="char:EOLhyphen"/>formed Proteſtants, in their Petition to her, ſhe would relieve them, but indeed they were but Traytors and Rebels to their Prince; the Provinces and Towns they have were got by Engliſh Valour, and Scotch, and French, for they fight with other mens hearts, not with their own; they have broke from the Spaniſh yoke, and ſlipt out of the Emperours Coller by colloging with England and France, whom they profeſſe to love, but 'tis for their gains and their ſafety; they crave a Protectour for fear of a fall, 'tis not for honeſty but in policy; the red Croſſe and white have kept their Quagmire for them, for better their Country is not then a Re<g ref="char:EOLhyphen"/>formed Bog. The next is,</p>
+            </div>
+            <div type="part">
+               <head>4. <hi>Their PRIDE.</hi>
+               </head>
+               <p>FOr which they were humbled and brought low, yet now they can ſpeak nothing in their Titles but blaſphemy, the <hi>Hogheuſte Moegeuſte Staten,</hi> the moſt high, and moſt mighty States and Lords:
+<pb n="5" facs="tcp:166218:3"/>Inſolent and proud they are, for they will boaſt of their Coat of Arms, though they be a pair of Pot-hooks, or two Hogſheads; if they give a Lyon, though black, or blew, or green, or white, with<g ref="char:EOLhyphen"/>out Head, or Eyes, or Paws, they brag themſelves to ſome Dukes, or Princes Deſcent, but this pride ſwels moſt, when Rotterdam's or Breda's Beer, or new <hi>Megheus Mull,</hi> or <hi>Brandt</hi> Wine puffs them up, for then they fear not hanging, ſtrappadoing, or damming: they are brag and proud of any thing, as of their blew bands, but more of a clean ſhirt, but they are the moſt proud of a May Even, and of their Ships, their fine Towns, and cleanly Wifes; the beſt and ſureſt way to get any thing of them, is, curbe them, to threaten them, and to beat them, for then they fear and love you; if you pray them, they are Tyrants and Peacocks, or think you a Meacock. The next to be handled is,</p>
+            </div>
+            <div type="part">
+               <head>5. <hi>That mad practice of Drunkenneſſe.</hi>
+               </head>
+               <p>THey have their <hi>Geſouten,</hi> as the <hi>Bore</hi> the <hi>Kindern maekt,</hi> their <hi>
+                     <g ref="char:V">Ʋ</g>pſie Freezen,</hi> their off <hi>Geſupen,</hi> their <hi>Mel floribus,</hi> with ma<g ref="char:EOLhyphen"/>ny other ſuch forms of healths and cuppings; they ſit longeſt at it, when they have had their pickled Herrings, 'tis a hard thing to find any of them ſober at four or five in the Afternoon; many practiſe by themſelves rather then ſit idle: Scarce a Malefactor but will dye drunk, and their Preachers not only permit it but perſwade it, that they ſhould dye the more valorouſly: Oh <hi>brand</hi> Wine! takes a<g ref="char:EOLhyphen"/>way the fear of death, and they uſe Scripture for it as they go to the Gallowes, Give Wine to him that is ready to periſh; they'l come out of the <hi>Guelly</hi> houſe as to Morrice Dance, though to the Gibbet; the Maids and Women are as free as the men, and uſually chuſe their Husbands by their Cups; then they'l <hi>ſnick a ſnee,</hi> who at other times fear a Holly-wand; they'l drink of all Waters, and are indeed contrary to all other men for others are beſt and ſtouteſt when ſober, theſe are then the only men when they are no men, and dare ſtand againſt all when they cannot ſtand at all; if ever you conquer them let them be ſober, for then they are plain Cowards. And then follows next,</p>
+            </div>
+            <div type="part">
+               <pb n="6" facs="tcp:166218:4"/>
+               <head>6. <hi>Their Cowardlineſſe.</hi>
+               </head>
+               <p>THey are like great Trees, hollow within, more ſap then heart, they dare do nothing ſingle, but altogether as our Lyons in Smithfield on Mondayes, Wedneſdayes, and Frydayes, Oxen or Sheep: they love not to ſtand onely perdeiu, except in drink; o<g ref="char:EOLhyphen"/>ther Nations got them their Towns, and yet keep them for them, ſcarce any of their own Nation Souldiers, and they never truſted upon any notable deſign alone: Witneſſe <hi>Trehay,</hi> and <hi>Todos los Sanctos,</hi> for they will yield or run for it, and the Battle at Neuport, where all the Duch ran the field, and left the Engliſh and Scotch to fight while they fled; <hi>lope, lope,</hi> is their word, and their deed too; you muſt not fear them for their groſſe bulke, they are like Drums, make a great ſound, and ſet other together by the ears, but do no<g ref="char:EOLhyphen"/>thing themſelves; if he runs not too far, you may ſee him come in when all's done to pillage, not fight.</p>
+            </div>
+            <div type="part">
+               <head>7. <hi>They want hearts, but have crafty heads.</hi>
+               </head>
+               <p>BUt though they want hearts, yet they have crafty heads, dull to apprehend, but ſubtile to execute, their covetous craftineſſe, and crafty covetouſneſſe do exceed the Lombard Maſters, though they be Jewes; their whole trading is but defrauding, you may live 20. years there, and yet never ſee any Engliſh Silver or Gold, except your ſelfe changes it, and then you may bid it farwell for e<g ref="char:EOLhyphen"/>ver ſeeing it again: their practice in the Eaſt and Weſt Indies, and in the South Seas is to decry and fruſtrate any other Nation, or Commodities to enhance themſelves and their own: when Wars was betwixt England and Spain, many of our Colliers from New<g ref="char:EOLhyphen"/>caſtle came ſhort home, the Dunkerkers bore the fault, but 'tis too much ſuſpected the Hollander did the miſchiefe; witneſſe alſo their planting in our Fens and Marſhes, and their Herring fiſhing, full of ſubtilty, deceit, and covetouſneſſe, like Spunges ſuck in, but part with nothing except ſqueezed from them; the Nation hath been the
+<pb n="7" facs="tcp:166218:4"/>Horſe-Leaches of Europe, and are the very Mountebankes to cry up themſelves, and deſpiſe all others. Next follows,</p>
+            </div>
+            <div type="part">
+               <head>8. <hi>Their <g ref="char:V">Ʋ</g>njuſtice and Ingratitude.</hi>
+               </head>
+               <p>THey ſhould be thankfull at leaſt to them who ſaved their Coun<g ref="char:EOLhyphen"/>try, their lives, Wives, and Children too: But to kill them and ſhoot bullets into their breſts is unheard off, and unparalleld un<g ref="char:EOLhyphen"/>juſtice, this hath been their practice: As Vipers eat out their Mo<g ref="char:EOLhyphen"/>thers bowels, ſo do theſe; had England left them, or let them lye open, they had not had a Sluce to ſhut up, for ere this time their beſt Town to put into had been Dam or Scichterdam, for as for Miniche<g ref="char:EOLhyphen"/>dam they could not have dared to hold it when the Spanyard had the power of their Wives and their lives too; they deale with En<g ref="char:EOLhyphen"/>gland as the Lawyer did with two men about the Oyſter, eat out the meat, and gave them the ſhell; we may ſay of their Courteſie as 'tis in the Proverb, ſave a Thiefe from the Gallows, and hee'l be the firſt to help to hang him.</p>
+            </div>
+            <div type="part">
+               <head>9. <hi>Their buſie medling.</hi>
+               </head>
+               <p>OR to uſe their owne words, their interloping into the affairs of other ſtates, as though all other Nations were dying, and had made theſe their Overſeers; they are the only Medlars, and to be ſure they are beſt when they be rotten; at their firſt riſing they could not ſay they kept correſpondency with other Princes, for none would own them, for then they were poor Petitioners, thought now they would be Maſters over all: at their firſt crawling and ſpawning, they had only their Agenten, but now having ſuck'd wealth and ſtrength by the forbearance and indulgence of their bet<g ref="char:EOLhyphen"/>ters, timely to tutor them, they ſend forth their Factors for Embaſ<g ref="char:EOLhyphen"/>ſadors; they have rumor'd the four parts of the world with their pragmaticall Intelligencers, and they who had ſcarce a home to hide their heads in, will not now be kept at home; they are like cunning Mountebanks, who find out others diſeaſes by tampering
+<pb n="8" facs="tcp:166218:5"/>with their diſtemper'd pulſes, and having let them bloud, care not how ſoon they die; if they hear of an Ulcer in any State or King<g ref="char:EOLhyphen"/>dome, they care not to cure it, but to procure it; they are the very Glyſters of the World, which if you let into the bowels, they'l not leave tumbling and rumbling, till you muſt be forc'd to ſhite them out, and then you ſhall ſmell theſe buſie bold intruders: their Countrey is but a ſtinking houſe of Office, into which you may go, but if you ſtay too long, you're ſure to be ſtrip'd, or ſtifled. They are like Black-ſoap, whick though laid under you, yet in ſhort time by warmeth and heat, will froath and foam above you; you cannot ſtep into any Princes Court, though it ſhould be to the titular King of Scots, if he have any, or to the black Aranokin, or to RU<g ref="char:EOLhyphen"/>PERTS Starting holes, but theſe buſie Waſps and Hornets called Hollanders, will with their Braggadotia's, <hi>And how ist myn heere,</hi> be found there, and tell lies as big as Elephants, not to honour our Nation, but to ruine it, which they have long gaped after, but as yet happily have miſs'd. We muſt not let them into our very tails, our Fens, Marſhes, Creeks, or Harbours, though VAN TRUMP aims at it for they ſtink where they go: in plain terms, they have medled ſo far, that we hope they can interveer no fur<g ref="char:EOLhyphen"/>ther.</p>
+            </div>
+            <div type="part">
+               <head>10. <hi>Their Prophanneſſe.</hi>
+               </head>
+               <p>THey pretend to their <hi>Beeden-Dagen,</hi> their Faſt-daies, and Sab<g ref="char:EOLhyphen"/>boath keeping, but however, they will not forgoe the keeping of their <hi>Carmiſhen,</hi> that is, their drunken Fairs, though in Sermon<g ref="char:EOLhyphen"/>time upon thoſe very daies: when they meet; their zeal is more u<g ref="char:EOLhyphen"/>pon their Brand-wine, than upon their Doome of Utrecht, or their neat Church of Tergo: they<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ſwear <hi>Godts Sacramenten,</hi> and by 10000. Tun of Divelen that Gods word is <hi>heele goodt,</hi> and <hi>ſeer <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>raectick,</hi> yet they muſt not they ſay, truſt onely unto that, or al<g ref="char:EOLhyphen"/>wayes be at prayers: in their Cups, they neither fear damning. nor doubt it; if HENRICK VAN DUNNS, and CORNELIUS VAN DER DOLTEN, and Captain JORIS SUNDER BROECKEN, with that extravagant, <hi>Myn heere Van de Boors Schancen,</hi> meet as
+<pb n="9" facs="tcp:166218:5"/>they uſually do, with the ſtout Beer of the <hi>ſwaet perdt,</hi> or black Horſe of Rotterdam; 'tis not four Brigad's of Divels, nor four Re<g ref="char:EOLhyphen"/>giments of Spaniards, whom they fear as bad as Divels, nor yet a double Jury of their Elders, though they ſhew a Geneva Commi<g ref="char:EOLhyphen"/>ſſion, can rouſe or remove them; then <hi>Broders, ought Siſtern, oft Kindern, oft Diabolos</hi> are all alike, for Heaven there is ſo much holineſſe there, that (they ſay) there's no hopes, nor need of their Company: for Hell, they know moſt of their Countrey men live, and love to live in ſuch low places, and therefore they had rather be there with their acquaintance, and Anceſtors, then to ſtrive to go thither where they doubt both acquaintance and entertainment. Let their Preachers ſay what they will, theſe will do what they liſt; they are hardly got to Church, and are glad when tis done, for as they go out, you ſhall hear them uſually ſwear and curſe.</p>
+            </div>
+            <div type="part">
+               <head>11. <hi>Their Time-ſerving.</hi>
+               </head>
+               <p>FOr the advancement whereof, they have neither wanted oppor<g ref="char:EOLhyphen"/>tunity or Machivilian policy; they have been ſuch <hi>Staten Hee<g ref="char:EOLhyphen"/>ren,</hi> that if ſome other States had not been as wiſe as they have been ſubtle and knaviſh, we ſhould ſcarce have known what a clock it had been in England: how have they for many years deluded the French, Italian, Genoways, Venetians, Wallons, Switzers, Iriſh, Friezlanders, Highlanders, nay, have ſuck'd advantages, and gull'd even the great Mogull, the Turks, Perſians, Indians, Tartars, Muſcovites, Ruſſians, Pruſſians, Polanders, Norwegians, Sweeds, Danes, Germanes, Vandelopians, North Indians, or South-landers, Guineans, Diabolands, Calecutians, nay, their old enemies, the Spaniolos, and who ſooner Cajold with the Portugals, then theſe flegmatick Dutch? who knowes not that though King JAMES of England was their Protector, yet the Iſle of Rees, and other places of France, then in war with England, were ſupplyed with new veſſels, and old Brand wine men from Euchuyſen, Vu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhing, and Rotterdam, yes, and were furniſhed with ſtout, gallant Ships, called prophanely, Father, Son, and Holy Ghoſt? we protected them, and they protected France our Enemies,
+<pb n="10" facs="tcp:166218:6"/>and ſent Ammunition to ſhoot Bullets into our hearts, and yet were reputed <hi>Proteſtanten,</hi> and what cared they, ſo their Divels neſt (their Cantore) might be full, they have tamper'd about a Countrey called the Pallatinate, they regard friends no better then foes, nay, Enemies better then friends, if they can get monies by them.</p>
+            </div>
+            <div type="part">
+               <head>12. <hi>Their unnaturall Cruelty.</hi>
+               </head>
+               <p>VVHere they have either opportunity, or hearts to ſhow it, they deal with their beſt friends as they do with their Sal<g ref="char:EOLhyphen"/>lads when they are ripe, cut them to pieces and devoure them; wit<g ref="char:EOLhyphen"/>neſſe that bloudy and unparalel'd Burchery of the Engliſh at Am<g ref="char:EOLhyphen"/>boyn in the Eaſt Indies, where their torments upon the brave En<g ref="char:EOLhyphen"/>glish did exceed thoſe of Pizzarro, or any other Spaniard in the Weſt Indies, and cannot be equal'd but by Divels or themſelves; where they have not uſed it, it has not been for want of Will, but Power; they are like Butchers, they buy fat Oxen, not to keep them, but kill them: they know not what true valour is, and to ſpeak truly, no ſuch Tyrants as Cowards, when they can get the Maſtery: I would have them dealt withall, as Stags, or ſuch other Creatures cowardly of nature, and yet revengefull, to follow with a pack of luſty barking and biting hounds, good braſſe Cannon in our ſtout ſhips, they are at preſent on tip-toe, if well ſet to, they'le quickly alter that poſture to the heele: they never fight upon e<g ref="char:EOLhyphen"/>quality, and do not ſo properly ſlay as murther whom they ſuſpect; they love a Knife better then a Sword, and to ſtob privily, then to fight openly; let England look well to them, for if they become Maſters, 'tis ſure we ſhall be made ſlaves, or Butcher'd out-right: they are to be kept like Horſes, not pamperd for feare of kicking, or caſting their Maſters: a good Bitt in their mouths, and a whip in our hands is the only way to curb and awe ſuch pamper'd Jades: if you ride them, you may rule them; if they rule you, they'le be ſure to ruine you: we need not fear their courage, but their cowardly cruelty. One ſtep further, and ſo I leave you.</p>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:166218:6"/>
+               <head>13. <hi>Their Incivility,</hi>
+               </head>
+               <p>OR indeed heatheniſh behaviour: Queen ELIZABETH ſaid, that there was not a true bred Gentleman amongſt them, but one, and that was <hi>Myn Heere Van Dort:</hi> but he's dead long ago, and ſurely died without Heirs or any kindred: for <hi>Boren</hi> there are in every place, and <hi>Boreneke,</hi> and theſe the <hi>Kindern Maercht.</hi> You cannot torment them worſe, than to put off your hatt, or congy or Complement, for they'l only afford you a blockiſh nod, with <hi>lough myn heere:</hi> one Complement ſerves their whole Countrey, <hi>how ist myn heere:</hi> belching, gaping, or farting is their Countrey faſhion at Dinner or Supper; they riſe, piſſe, and come to fill their bellies; waſhing their hands or their faces is rare, except they come under a Barber, and that perhaps may be after a halfe years Voyage, and it's a trouble to them, were it not for their Wives, they would ſmell as ſtrong as Jewes; they'l take all is given them, but for thanks you may have a fart: they are ſilent amongſt ſtrangers, but 'tis for feare if they ſhould ſpeak they ſhould only be laugh'd at. ERASMUS their own Countrey-man ſets them forth to the life: I am weary of them, and I'le ſo leave them. Only this for Concluſion, you may as well get a Wild Boar into a Dublet, as to make one of thoſe Boriſh Dutchmen to button his Dublet.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
